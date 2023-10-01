@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @ishanyaa
+- 👋 Hi, I’m Ishanya
+- I am a junior majoring in Electrical Engineering and Computer Sciences
 - 👀 I’m interested in anything and everything, I enjoy exploring. 
 - 🌱 I’m currently working on my Python, AI/ML, Quantum Computing and Electronics Skills.
 - I am always to open to any sort of collaboration. 
