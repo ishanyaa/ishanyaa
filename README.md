@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ishanya
-- I am a junior majoring in Electrical Engineering and Computer Sciences
+- I am a senior majoring in Electrical Engineering and Computer Sciences
 - 👀 I’m interested in anything and everything, I enjoy exploring. 
 - 🌱 I’m currently working on AI/ML, Quantum Computing, WebDev and software development.
 - I am always to open to any sort of collaboration. 
