@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ishanya
 - I am a senior majoring in Electrical Engineering and Computer Sciences
 - 👀 I’m interested in anything and everything, I enjoy exploring. 
-- 🌱 I’m currently working on AI/ML, Quantum Computing, WebDev and software development.
+- 🌱 I’m currently working on ML, WebDev and software development.
 - I am always to open to any sort of collaboration. 
 - 📫 You can reach me on https://www.linkedin.com/in/ishanyaiiserb/
 
