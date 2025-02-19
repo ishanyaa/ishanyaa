@@ -4,7 +4,7 @@ I love exploring anything and everything—except for my inbox… that’s a sca
 
 Always open to collaboration! If you’ve got a cool project, hit me up—unless it involves debugging at 3 AM, then we might need to renegotiate XD
 
-Reach me on LinkedIn (https://www.linkedin.com/in/ishanyaiiserb/)—I promise I’ll reply faster than your WiFi on a Monday morning. 
+Reach me on LinkedIn: https://www.linkedin.com/in/ishanyaiiserb/ 
 
 <!---
 ishanyaa/ishanyaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
